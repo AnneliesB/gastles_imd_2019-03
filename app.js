@@ -10,6 +10,9 @@ app.use(bodyParser.json({ limit: '50mb', keepExtensions: true }));
 
 // Load messages route here
 // Tip: see DefaultRoute example :-)
+const MessagesRoute = require('./routes/messages');
+
+MessagesRoute(app);
 
 // This is the default route if no route was found
 const DefaultRoute = require('./routes/default');
