@@ -11,10 +11,10 @@
 
 ## Opdracht ##
 
-Vraag een `key` op bij onze [API](http://localhost:3000) door middel van postman.  
-Tip: [http://localhost:3000/docs](http://localhost:3000/docs) om de documentatie van onze API te bekijken.
+Vraag een `key` op bij onze [API](https://gastles-2019-03-imd.hyperdrive.studio) door middel van postman.  
+Tip: [https://gastles-2019-03-imd.hyperdrive.studio/docs](https://gastles-2019-03-imd.hyperdrive.studio/docs) om de documentatie van onze API te bekijken.
 
-Maak aan de hand van middleware, services en controllers een route die via een veilige weg naar onze API (op [http://localhost:3000](http://localhost:3000)) berichten stuurt. Spreek je eigen route ook aan via Postman (of curl voor de echte hardcore developers 😉).
+Maak aan de hand van middleware, services en controllers een route die via een veilige weg naar onze API (op [https://gastles-2019-03-imd.hyperdrive.studio](https://gastles-2019-03-imd.hyperdrive.studio)) berichten stuurt. Spreek je eigen route ook aan via Postman (of curl voor de echte hardcore developers 😉).
 
 ## Extra info ##
 
