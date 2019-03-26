@@ -4,6 +4,8 @@
   "description": "Gastles IMD 03/2019",
   "main": "app.js",
   "scripts": {
+    "start": "nodemon",
+    "start:windows": "nodemon -L",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint ."
   },
@@ -19,6 +21,7 @@
   "devDependencies": {
     "eslint": "^5.13.0",
     "eslint-config-airbnb-base": "^13.1.0",
-    "eslint-plugin-import": "^2.16.0"
+    "eslint-plugin-import": "^2.16.0",
+    "nodemon": "^1.18.10"
   }
 }
